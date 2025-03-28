@@ -1,8 +1,8 @@
 # AHK-automation-sample
-AutoHotkey (v1) script to autofill a form in 10-20 seconds with 1-2 button presses (no mouse input).
+AutoHotkey (v1) script to autofill a form in 10-20 seconds with 1-2 button presses (without needing mouse input).
 
 Inputs patient information (excludes sensitive details) from spreadsheet.
-Script also selects parts of the form based on certain values per case such as how each drug is taken, type of case, etc.
+Script also selects parts of the form based on certain values per case such as number of drugs & diagnoses, how each drug is taken, type of case, etc.
 
 Without script, it takes about 1 minute to manually complete each form.
 
